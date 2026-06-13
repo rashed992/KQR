@@ -1,0 +1,3 @@
+MYFATOORAH_API_KEY=ضع_مفتاح_API_الخاص_بك_هنا
+MYFATOORAH_BASE_URL=https://apitest.myfatoorah.com
+PORT=3001
